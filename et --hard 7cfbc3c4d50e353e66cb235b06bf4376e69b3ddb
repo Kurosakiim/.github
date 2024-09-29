@@ -1,0 +1,388 @@
+[33mcommit 3bff71d2a0c643da5e07a61425cb949f2ddd62d4[m[33m ([m[1;36mHEAD -> [m[1;32madd-myself-to-the-list-of-students[m[33m)[m
+Merge: 8a597e6 3f5366a
+Author: Kurosakiim <kimberlybeyeler@gmail.com>
+Date:   Mon Sep 23 16:26:09 2024 +0200
+
+    Resolve the merge conflict
+
+[33mcommit 8a597e6641605efd7f0c04e9f320a6152d913f06[m
+Author: Kurosakiim <kimberlybeyeler@gmail.com>
+Date:   Mon Sep 23 16:21:16 2024 +0200
+
+    This change was done on branch 'add-myself-to-the-list-of-students'
+
+[33mcommit 3f5366a5d24bf796f1cf3cf4327900c6fd8f42dd[m[33m ([m[1;32mthis-branch-will-create-a-conflict[m[33m)[m
+Author: Kurosakiim <kimberlybeyeler@gmail.com>
+Date:   Mon Sep 23 11:40:12 2024 +0200
+
+    This change was done on branch 'this-branch-will-create-a-conflict'
+
+[33mcommit 29ef948df94c908c48adf47eb72fe86b802f2e47[m
+Author: Kurosakiim <kimberlybeyeler@gmail.com>
+Date:   Mon Sep 23 11:35:35 2024 +0200
+
+    Add myself to the list of students
+
+[33mcommit d82bfb498f5ed4299725f39ab0f273e68d5fe09d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: skyrag <74248483+skyrag@users.noreply.github.com>
+Date:   Mon Sep 23 10:09:40 2024 +0200
+
+    Add myself Nicolas Duprat to the list of students (#118)
+
+[33mcommit 9eedcae3e366d7445e1c3081836da377433e37b4[m
+Author: Ali Zoubir <107996590+Ali-Z0@users.noreply.github.com>
+Date:   Mon Sep 23 10:07:38 2024 +0200
+
+    Add myself to the list of students (#117)
+
+[33mcommit f433ea89d3ed5bf1e9377b04db812f3a54f9efef[m
+Author: TschantzN <145683961+TschantzN@users.noreply.github.com>
+Date:   Fri Sep 20 13:15:31 2024 +0200
+
+    Add myself to the list of students (#122)
+
+[33mcommit 23fec79b5a93472a7593a461c4f2bd3d684ce6dc[m
+Author: kilianfroideva <147158066+kilianfroideva@users.noreply.github.com>
+Date:   Fri Sep 20 13:11:32 2024 +0200
+
+     Add myself (Kilian Froidevaux) to the list of students (#123)
+
+[33mcommit ca066b884a07033c853e5302a972ec30c834c359[m
+Author: Thomas Stäheli <145656394+thomasstaheli@users.noreply.github.com>
+Date:   Fri Sep 20 12:57:21 2024 +0200
+
+    Add myself to the list of students (#120)
+
+[33mcommit e45627b057770fedf13db50b85edceb654a7f358[m
+Author: Urs Behrmann <89578787+UBehrmann@users.noreply.github.com>
+Date:   Fri Sep 20 11:31:26 2024 +0200
+
+    Added myself to the profile list (#94)) (#112)
+
+[33mcommit 681e7d3a4f8ce5b154be67dce3a8587f85d424b3[m
+Author: Gonçalo Heleno <33546359+lentidas@users.noreply.github.com>
+Date:   Fri Sep 20 11:14:13 2024 +0200
+
+    Add myself (Gonçalo Heleno) to the list of students (#88)
+
+[33mcommit 9981fdf61949af1e0ebb6bb5ba5cd253f7aa233a[m
+Author: Guillaume Fragnière <93386448+GFragniere@users.noreply.github.com>
+Date:   Fri Sep 20 11:01:55 2024 +0200
+
+    Added myself to the profile list (#99)
+
+[33mcommit ab8eefbfc293f1faf7922907b98abf2205279243[m
+Author: Killian Viquerat <kil.viquerat@gmail.com>
+Date:   Fri Sep 20 10:49:06 2024 +0200
+
+    Add myself Killian Viquerat to the list of students (#95)
+    
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit 9c1ab58bbc90c294ae58a0048e4b587d5332679c[m
+Author: Raphael_Perret <87780955+rp2709@users.noreply.github.com>
+Date:   Fri Sep 20 10:45:51 2024 +0200
+
+    added myself to list of students (#90)
+    
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit 5c43a247de1ba6d56db3f771e7f9ee03d4cc73b6[m
+Author: Dylan L. <dylan.langumie@hes-so.ch>
+Date:   Fri Sep 20 10:37:45 2024 +0200
+
+    Add myself (Dylan Langumier) to the list of students (#93)
+
+[33mcommit b3d1e074a9a00b0e2713148754a637692ec652d6[m
+Author: LeonardJouve <leonard.jouve@gmail.com>
+Date:   Fri Sep 20 10:35:19 2024 +0200
+
+    Add myself Léonard Jouve to the list of students (#91)
+    
+    Co-authored-by: LeonardJouve <LeonardJouve@Leonard>
+
+[33mcommit a571790117f0c2c64443cc707e8903ee2d54d0a1[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Mon Sep 16 15:10:14 2024 +0200
+
+    Update date and formats (#78)
+
+[33mcommit 5e7530cb6390507179e767a2fd6f7e31d9c83230[m
+Author: Mathieu Emery <145534747+mathieuemery@users.noreply.github.com>
+Date:   Wed Sep 11 09:41:33 2024 +0200
+
+    Add myself to the list of students (#76)
+
+[33mcommit 308f495f07514b66e951e4f70b28a6abf2e38919[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Mon Sep 9 07:47:35 2024 +0200
+
+    Add Hadrien Louis to teaching staff (#74)
+
+[33mcommit 6260231253d33f3b350e95e213165dd7c89de3d5[m
+Author: GeraudSilvestri <57666873+GeraudSilvestri@users.noreply.github.com>
+Date:   Thu Sep 5 16:38:27 2024 +0200
+
+    Adding myself to the teaching staff list (#72)
+
+[33mcommit 3cd0ec5ca604439abc9daac4d42a97fc5f12fc4a[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Mon Sep 2 17:13:50 2024 +0200
+
+    Prepare organization README for new semester (#70)
+
+[33mcommit 2c2127f8506efd4e1659d1b332d29ef2f77fc97a[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Mon Jan 29 09:35:07 2024 +0100
+
+    Finalize DAI course 2023-2024
+
+[33mcommit 4b35c6722f5688345e4a913393c01b13cf98a576[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Wed Oct 18 09:58:23 2023 +0200
+
+    Improve description of the course
+
+[33mcommit f2ae93f93f8121a5c00153b8f33925024ff6e6e5[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Tue Oct 10 15:19:52 2023 +0200
+
+    Add course description to the profile README (#67)
+
+[33mcommit 0c49a33ee74a8920384ae373118c57b8639402bc[m
+Author: Sarah <58696128+sarsurgithub@users.noreply.github.com>
+Date:   Sat Sep 30 17:28:12 2023 +0200
+
+    added myself to the student list (#65)
+
+[33mcommit 8a5e60fd20151bff255f504760eb390b97cbf337[m
+Author: ahmadjano <114154791+ahmadjano@users.noreply.github.com>
+Date:   Tue Sep 26 17:36:02 2023 +0200
+
+    Add myself to the list of students (#63)
+    
+    Co-authored-by: Hadrien Louis <hadry@protonmail.com>
+
+[33mcommit 2341fe8434c4b3a3fac7fcdb77943ea869b1bb00[m
+Author: massteff <42839432+massteff@users.noreply.github.com>
+Date:   Tue Sep 26 15:58:00 2023 +0200
+
+    Add myself GitHub username to the list of students (#64)
+    
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit 2ad1be462750f2028407cef85d8565a674c860eb[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Tue Sep 26 14:44:03 2023 +0200
+
+    Add missing students
+
+[33mcommit 10f842e1f0389fe3b7f3199e718edb0a530c5752[m
+Author: HRomain <humair.romain@outlook.com>
+Date:   Tue Sep 26 14:33:07 2023 +0200
+
+    Add myself to the list of students (#59)
+    
+    Co-authored-by: Romain Humair <romain.humair@asi.swiss>
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit b14fa03b3b8235f56a39844ae1c6ae0d82534df7[m
+Author: Alexandre Iorio <90898699+AlexandreIorio@users.noreply.github.com>
+Date:   Tue Sep 26 14:29:33 2023 +0200
+
+    Add myself GitHub username to the list of students (#44)
+    
+    Co-authored-by: AlexandreIorio <alexandre.iorio@heig.vd.ch>
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit 034f1691745bd5790345da7ad6a7c80e4ab57e39[m
+Author: Olin <45310038+OlinB@users.noreply.github.com>
+Date:   Tue Sep 26 14:28:33 2023 +0200
+
+    Add myself (OlinB) to the list of students (#30)
+    
+    Co-authored-by: Hadrien Louis <hadry@protonmail.com>
+
+[33mcommit 49df9b66b17bc4ba3374ab6b30470863d341c109[m
+Author: lucaslattion <71433770+lucaslattion@users.noreply.github.com>
+Date:   Tue Sep 26 14:24:54 2023 +0200
+
+    Add myself lucaslattion to the list of students (#56)
+
+[33mcommit 3d4c7715b64296405c3a68b0d2d3ceb3b8f88134[m
+Author: RemyB <35931021+RemyBlr@users.noreply.github.com>
+Date:   Tue Sep 26 14:15:42 2023 +0200
+
+    Add myself to the list of students (#60)
+
+[33mcommit 86c83207893638315ceabba51e69d44d3e79c2c9[m
+Author: Richard Aurélien <aurelien.r@hotmail.ch>
+Date:   Mon Sep 25 19:28:27 2023 +0200
+
+    Add myself to the list of students (#39)
+
+[33mcommit ff72278a62a3ae38ff090e419d79a0c0ef5dc846[m
+Author: MolinaElGringo <100799017+MolinaElGringo@users.noreply.github.com>
+Date:   Mon Sep 25 09:38:01 2023 +0200
+
+    Add myself (@MolinaElGringo) to the list of students (#47)
+
+[33mcommit bb7472a3e830c8845406a7a597bdb0ed1cdd63e0[m
+Author: GuggisbergSimon <43808186+GuggisbergSimon@users.noreply.github.com>
+Date:   Thu Sep 21 15:25:18 2023 +0200
+
+    Add myself to the list of students (#43)
+
+[33mcommit 03737e72f7336b01a3fd09c60aeaee1c60dfd899[m
+Author: Gwendal Piemontesi <114938783+gwendalpiemonte@users.noreply.github.com>
+Date:   Thu Sep 21 15:24:14 2023 +0200
+
+    Add myself to the list of students (#37)
+
+[33mcommit 9a728264c4afc88461b353e9404425516602da60[m
+Author: Kevin Farine <47321502+KevinFarine@users.noreply.github.com>
+Date:   Thu Sep 21 08:54:52 2023 +0200
+
+    Add @KevinFarine to the list of students (#23)
+    
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit 5221b5081d600c1c7a43aac75d189c5f207ac8b2[m
+Author: Theodros <41983982+Theodrosrun@users.noreply.github.com>
+Date:   Wed Sep 20 22:26:31 2023 +0200
+
+    Add myself (@theodrosrun) to the list of student (#55)
+
+[33mcommit c61e3b36560bd6a8ef36ea1966583583c879fab1[m
+Author: Better_Blood <45463619+BetterBlood@users.noreply.github.com>
+Date:   Wed Sep 20 16:50:19 2023 +0200
+
+    Add myself (@BetterBlood) to the list of students (#38)
+    
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit 46bb2fdff78ee6f11c49d5ead352ca6316e353e0[m
+Author: Arthur Menétrey <54710977+Xenogix@users.noreply.github.com>
+Date:   Wed Sep 20 14:42:52 2023 +0200
+
+    Added myself (@Xenogix) to the list of students (#49)
+    
+    Co-authored-by: Hadrien Louis <hadry@protonmail.com>
+
+[33mcommit 1e076184e039d6beb51fb668915e1093e3bd8db2[m
+Author: Walid <94690298+SlWa99@users.noreply.github.com>
+Date:   Wed Sep 20 14:39:08 2023 +0200
+
+    Add myself(@SlWa99) to the list of students #18 (#52)
+    
+    Co-authored-by: Hadrien Louis <hadry@protonmail.com>
+
+[33mcommit 3e64931adaead2e51ef8cfcf86f59167aa4823f7[m
+Author: AlanSottile <114154795+AlanSottile@users.noreply.github.com>
+Date:   Wed Sep 20 14:33:21 2023 +0200
+
+    Add myself (@AlanSottile) to the list of students (#41)
+
+[33mcommit 7d111aa7a3fa60824a3afd0fba741c85a572cd24[m
+Author: truebguillaume <73121793+truebguillaume@users.noreply.github.com>
+Date:   Wed Sep 20 14:20:43 2023 +0200
+
+    Add myself to the list of students (#35)
+    
+    Co-authored-by: Hadrien Louis <hadry@protonmail.com>
+
+[33mcommit 0947476712408168809d69112edafb50037f61b3[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Wed Sep 20 12:29:26 2023 +0200
+
+    Fix duplicate name in list of students (#54)
+
+[33mcommit 17d0922a2d7c8638778dde81c2d15a85c560bd4e[m
+Author: Esteban Lopez <125995269+EstebanLopezGomez@users.noreply.github.com>
+Date:   Wed Sep 20 12:25:15 2023 +0200
+
+    Add Esteban GitHub username to the list of students Closes #11 (#42)
+
+[33mcommit 2a3486d736477ea0d183922bf60be072cf418d9c[m
+Author: Thomas V <115169010+Cobora2001@users.noreply.github.com>
+Date:   Wed Sep 20 11:53:00 2023 +0200
+
+    Add myself (@Cobora2001) to the list of students (#48)
+
+[33mcommit d0473973da513147f4f7d4b2d2bca50140845b14[m
+Author: ShadySeko <56797825+ShadySeko@users.noreply.github.com>
+Date:   Wed Sep 20 11:42:35 2023 +0200
+
+    Add myself to the list of students (#17)
+    
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit e2c7c6daab6e8c74c63642569fc19b6294457185[m
+Author: poLionel <115302918+poLionel@users.noreply.github.com>
+Date:   Wed Sep 20 07:48:09 2023 +0200
+
+    Add myself to the list of students (#50)
+
+[33mcommit ef4aea2f1e49056fb3a386bb4d11369eb64e3176[m
+Author: Pirakas Anthon <71434215+apirakas@users.noreply.github.com>
+Date:   Wed Sep 20 07:32:06 2023 +0200
+
+    Add myself GitHub username to the list of students (#14)
+    
+    Co-authored-by: Hadrien Louis <hadry@protonmail.com>
+
+[33mcommit 02565d200db2d4199c10c829bce9bb34f5f7f10d[m
+Author: JonasTroeltsch <93932829+JonasTroeltsch@users.noreply.github.com>
+Date:   Tue Sep 19 15:51:48 2023 +0200
+
+    Add myself (@JonasTroeltsch) to the list of students (#22)
+    
+    Co-authored-by: Hadrien Louis <hadry@protonmail.com>
+
+[33mcommit 3e131c10deace1813d5a92c05293184b9c697342[m
+Author: Lutonite <lutonite@lutonite.ch>
+Date:   Tue Sep 19 15:40:44 2023 +0200
+
+    Add @lutonite to the list of students (#8)
+    
+    Co-authored-by: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+
+[33mcommit ad482167875d46a509e192c03e593fa99f89c41e[m
+Merge: 6c14021 06687ab
+Author: Hadrien Louis <hadry@protonmail.com>
+Date:   Tue Sep 19 15:13:36 2023 +0200
+
+    Merge branch 'AlexandrePhilibert-add-myself-alexandrephilibert-to-the-list-of-students'
+
+[33mcommit 06687abddb405da0f8c2af13650767b4168ccdf3[m
+Merge: aa9aa04 6c14021
+Author: Hadrien Louis <hadry.louis@gmail.com>
+Date:   Tue Sep 19 15:05:38 2023 +0200
+
+    Merge branch 'main' into add-myself-alexandrephilibert-to-the-list-of-students
+
+[33mcommit 6c14021f2c8fa661e5530a3c66679be8bc72f58f[m
+Author: Valentin Ricard <91870700+valentin-ricard@users.noreply.github.com>
+Date:   Tue Sep 19 15:04:41 2023 +0200
+
+    feat: Add myself to the list of students (#4)
+    
+    Co-authored-by: Redblueflame <contact@redblueflame.com>
+
+[33mcommit aa9aa040ea275135b8fcda7220fb98c35a739b54[m
+Author: Alexandre Philibert <alexandre.philibert@ik.me>
+Date:   Tue Sep 19 14:10:25 2023 +0200
+
+    Add myself to the list of students
+
+[33mcommit 7cfbc3c4d50e353e66cb235b06bf4376e69b3ddb[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Mon Sep 4 14:39:51 2023 +0200
+
+    Update README
+
+[33mcommit 53c5c3fca6695b492a24a03d2edbc0382a2ed6e9[m
+Author: Ludovic Delafontaine <ludovic.delafontaine@gmail.com>
+Date:   Thu Jul 13 13:58:51 2023 +0200
+
+    Add initial README.md
